@@ -1,0 +1,9 @@
+scikit-learn
+scikit-image
+numpy
+pandas
+tensorflow==2.8.0-rc0
+matplotlib
+opencv-python
+tqdm
+imblearn
